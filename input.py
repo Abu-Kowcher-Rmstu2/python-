@@ -10,7 +10,7 @@ x = int(input("enter an integer value: "))
 print(type(x))
 
 #taking float as input.
-x = float(input("enter an integer value: "))
+x = float(input("enter a float value: "))
 print(type(x))
 
 ### taking multiple value at same time using input().split().
